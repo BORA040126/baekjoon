@@ -1,0 +1,5 @@
+DP: Dynamic Programming
+이전에 생성한 값을 가져다 쓰는 것
+
+bottom-up: 아래서 부터 목표지점 까지 도달
+top-down: 위에서 부터 아래로 내려가는 것
