@@ -1,0 +1,11 @@
+korea=input()
+if(korea=="M"):
+    print("MatKor")
+elif(korea=="W"):
+    print("WiCys")
+elif(korea=="C"):
+    print("CyKor")
+elif(korea=="A"):
+    print("AlKor")
+else:
+    print("$clear")
