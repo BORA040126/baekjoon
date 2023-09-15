@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=a+b+c+d
+f=e//60
+g=e%60
+print(f)
+print(g)
