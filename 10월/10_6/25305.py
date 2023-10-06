@@ -1,0 +1,7 @@
+a=input()
+b,c=a.split(" ")
+b=int(b)
+c=int(c)
+d=list(map(int,input().split()))
+d.sort(reverse=True)
+print(d[c-1])
